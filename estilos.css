@@ -1,0 +1,12 @@
+#contenedor{
+    display: flex;
+    gap:3px;
+    margin-bottom: 20px;
+}
+
+#contenedor div{
+    border: solid 2px;
+    width:20%;
+    padding:15px;
+    
+}
